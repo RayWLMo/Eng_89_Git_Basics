@@ -1,7 +1,7 @@
 # Git and GitHub Set up documentation
 ## Git installation
 - To install Git, go to the [Git download page](https://git-scm.com/downloads) and download the Git for the appropiate operating system
-![Git Download Page]("Git download page.png")
+![Git Download Page](Git_download_page.png)
 - This download includes Git Bash as well
 ## Creating an account on GitHub
 - Go to the [GitHub homepage](https://github.com) and create an account using the sign up button in the top right hand corner
