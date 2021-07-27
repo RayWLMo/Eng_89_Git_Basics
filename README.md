@@ -1,11 +1,11 @@
 # Git and GitHub Set up documentation
 ## Git installation
 - To install Git, go to the [Git download page](https://git-scm.com/downloads) and download the Git for the appropiate operating system
-![Git Download Page](https://github.com/RayWLMo/Eng_89_Git_Basics/blob/main/Git_download_page.png?raw=true)
+![Git Download Page](https://github.com/RayWLMo/Eng_89_Git_Basics/blob/main/images/Git_download_page.png?raw=true)
 - This download includes Git Bash as well
 ## Creating an account on GitHub
 - Go to the [GitHub homepage](https://github.com) and create an account using the sign up button in the top right hand corner
-![GitHub Homepage](https://raw.githubusercontent.com/RayWLMo/Eng_89_Git_Basics/main/GitHub_Homepage.png)
+![GitHub Homepage](https://raw.githubusercontent.com/RayWLMo/Eng_89_Git_Basics/main/images/GitHub_Homepage.png)
 - This account will be used to link the account with the generated SSH Key
 ## Generating an SSH Key to use with GitHub
 - To generate an SSH Key, Git Bash is needed
@@ -27,7 +27,7 @@
 - Copy all the text provided including `ssh-ed25519` or `ssh-rsa` and the email address provided
 - On a browser, navigate to the [GitHub profile 'SSH key' settings page](https://github.com/settings/keys)
 - Click `New SSH Key`
-![New SSH Key Page](https://raw.githubusercontent.com/RayWLMo/Eng_89_Git_Basics/main/GitHub_Adding_A_New_SSH_Key.png)
+![New SSH Key Page](https://raw.githubusercontent.com/RayWLMo/Eng_89_Git_Basics/main/images/GitHub_Adding_A_New_SSH_Key.png)
 - Paste the SSH Key in the lower box titled 'Key' and give it a reasonable title i.e 'Windows SSH Key'
 - Click Add SSH Key
 - The SSH Key should now be added to your GitHub account and you will be able to add and edit files using Git
